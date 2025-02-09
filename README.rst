@@ -78,6 +78,7 @@ or run without saving
 or
 
 ::
+
   wget https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
   python speedtest.py
 
